@@ -16,7 +16,7 @@ Host bastion
         identityfile /path/to/bastion/key.pem
 
 ```
-### screenshots
+### Screenshots
 
 ![image](https://user-images.githubusercontent.com/119705658/219452316-fe30ec4d-82c8-4c93-bf63-7ccb00b88f7d.png)
 
